@@ -6,7 +6,7 @@ using UnityEngine;
 using System;
 using System.Collections;
 
-namespace ComingLights
+namespace PabloJMartinez.AStar.Legacy
 {
     public class Funnel
     {

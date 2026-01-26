@@ -6,7 +6,7 @@ using System;
 using System.Collections;
 using UnityEngine;
 
-namespace ComingLights
+namespace PabloJMartinez.AStar.Legacy
 {
     /// <summary>
     /// Binary Heap (min-heap) for NodeRecords only, unless any other type is necessary, in which case look at Comparer.Compare.

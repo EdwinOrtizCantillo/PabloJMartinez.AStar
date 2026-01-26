@@ -5,7 +5,7 @@
 using UnityEngine;
 using System.Collections;
 
-namespace ComingLights
+namespace PabloJMartinez.AStar.Legacy
 {
     public class ObjectPlacement : MonoBehaviour
     {

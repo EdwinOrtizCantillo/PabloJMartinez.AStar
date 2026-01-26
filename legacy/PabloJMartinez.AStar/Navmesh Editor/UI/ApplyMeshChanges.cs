@@ -8,7 +8,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-namespace ComingLights
+namespace PabloJMartinez.AStar.Legacy
 {
     public class ApplyMeshChanges : MonoBehaviour, IPointerClickHandler
     {

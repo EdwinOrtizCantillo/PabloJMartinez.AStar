@@ -12,7 +12,7 @@ using System.Collections.Generic;
 ///     · If you join only one node of the mesh to a different mesh it results in broken A* pathfinding. 
 /// </summary>
 
-namespace ComingLights
+namespace PabloJMartinez.AStar.Legacy
 {
     [DisallowMultipleComponent]
     public class NavmeshGenerator : MonoBehaviour

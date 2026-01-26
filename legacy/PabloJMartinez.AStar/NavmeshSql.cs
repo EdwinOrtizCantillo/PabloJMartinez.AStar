@@ -7,7 +7,7 @@ using UnityEngine;
 using System.Data;
 using System.Text;
 using SQLite;
-namespace ComingLights
+namespace PabloJMartinez.AStar.Legacy
 {
     public static class NavmeshSql
     {
